@@ -3,7 +3,7 @@
     "description": "Open Source Web Scheduler",
     "homepage": "https://easyappointments.org",
     "type": "project",
-    "license": "GPL-3.0",
+    "license": "GPL-3.0-or-later",
     "authors": [
         {
             "name": "Alex Tselegidis",
